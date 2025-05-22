@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Vijay-Bhatkar/Vijay-Bhatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KELLAMPALlI SREEVISHNU TEJA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
